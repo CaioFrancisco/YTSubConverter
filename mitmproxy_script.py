@@ -3,13 +3,16 @@
 
 # READ THESES INSTRUCTIONS!!!!!!!!!!
 
-# Edit the "subtitle_location" line to the location of your subtitles.
+# Edit "REPLACE ME" in the "subtitle_location" line to be the location of your subtitles.
 # Keep the quotes and the starting R.
 
 # It should look something like this (without the hashtag at the start):
 # subtitle_location = r"C:\Users\Administrator\Documents\my cool subtitles.ytt"
 
 subtitle_location = r"REPLACE ME"
+
+
+# Here's a bunch of spaces so you don't have to stare at nauseous, stomach-wrenching, horrible, violently compulsive code.
 
 
 
